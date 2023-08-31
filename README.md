@@ -1,6 +1,7 @@
 # internsavy_Level-2_Task-1
 
----
+---![weather](https://github.com/Pritam-Akatsuki/internsavy_Level-2_Task-1/assets/136802288/6a0acb46-a1bf-45d7-bf1f-4cdff4fd31f0)
+
 
 **WeatheRing App**
 
