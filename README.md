@@ -1,9 +1,11 @@
 # internsavy_Level-2_Task-1
-
----![weather](https://github.com/Pritam-Akatsuki/internsavy_Level-2_Task-1/assets/136802288/6a0acb46-a1bf-45d7-bf1f-4cdff4fd31f0)
-
-
+-----
+Discription:
 **WeatheRing App**
+---
+
+https://github.com/Pritam-Akatsuki/internsavy_Level-2_Task-1/assets/136802288/defb24bf-2e15-479e-927a-3e425d153ba5
+
 
 Welcome to the WeatherApp with YouTube Integration repository! This project is a dynamic and responsive web application that provides real-time weather information along with curated YouTube videos based on the weather conditions. It's built using HTML, CSS, JavaScript, and powered by Bootstrap for a sleek and modern user interface.
 
